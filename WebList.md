@@ -1,3 +1,3 @@
 **Web list**
 
-wwww.google.com
+www.google.com
